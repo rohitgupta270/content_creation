@@ -40,12 +40,6 @@ If you want posts with text overlaid on your photos:
 
 ### Writing Style Guides (Rohit)
 
-**ACTIVE GUIDES (Used for all content generation):**
-- `rohit-voice-guide.md` — Rohit's authentic voice: warm, direct, witty, evidence-based, leadership-level thinking. This is the ONLY voice guide used for content creation.
-- `WRITE-BETTER.md` — Writing rules that apply to ALL posts (no em dashes, active voice, no hedging, parallel structure, etc.)
-
-**LEGACY FILES (NOT USED):**
-- `adam-robinson-writing-style.md` — Kept for historical reference only. Adam Robinson's style is NOT used in Rohit's content.
-- `adam-robinson-top-posts.md` — Kept for historical reference only. Not used for current content.
-
-All content is created in Rohit's voice using the guides above. Adam Robinson files are archived but not used.
+**Content is created exclusively in Rohit's voice:**
+- `rohit-voice-guide.md` — Your authentic voice: warm, direct, witty, evidence-based, leadership-level thinking
+- `WRITE-BETTER.md` — Writing rules that apply to ALL posts (active voice, no hedging, parallel structure, etc.)

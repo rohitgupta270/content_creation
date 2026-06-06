@@ -46,7 +46,7 @@ A **complete LinkedIn content creation system** for Rohit that generates 5 ready
 |------|---------|----------|
 | `reference/WRITE-BETTER.md` | 10 writing rules + 1 examples rule | Claude checks EVERY post against this |
 | `reference/REAL-EXAMPLES-REQUIRED.md` | Real company names, metrics, market data standard | Claude uses this to generate quality posts |
-| `reference/rohit-voice-guide.md` | Your authentic voice (warm, direct, witty) | Claude uses to write in your voice, not Adam Robinson's |
+| `reference/rohit-voice-guide.md` | Your authentic voice (warm, direct, witty) | Claude uses this to write in your voice |
 | `reference/curated-industry-sources.md` | 40+ industry sources (Tier 1 & 2) | Claude pulls examples and data from these |
 
 ### **Context & Intelligence Files**
