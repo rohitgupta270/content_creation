@@ -280,3 +280,17 @@ Every post Claude generates must:
 9. Read with conviction, not uncertainty
 
 **This is non-negotiable. Check every post against this list.**
+
+---
+
+## Git Commit Rules (For Claude)
+
+When committing changes to this project:
+
+- ❌ **DO NOT** add "Co-Authored-By: Claude..." footers to commit messages
+- ❌ **DO NOT** use `git add -A` (accidentally includes unrelated files)
+- ✅ **DO** stage only relevant files: `git add <specific-files>`
+- ✅ **DO** use clear, descriptive messages that explain the change
+- ✅ **DO** keep commits focused on a single concern
+
+This project belongs to Rohit. Commits should reflect that.
