@@ -1,0 +1,208 @@
+CURATED INDUSTRY SOURCES - URLS FOR SUBSCRIPTIONS
+==================================================
+
+Copy and paste these URLs into your newsletter aggregator, Feedly, or directly subscribe to Substack newsletters.
+
+---
+
+AI & ML (10 sources)
+--------------------
+
+TIER 1 - MUST READ
+1. The Batch (Andrew Ng)
+   https://www.deeplearning.ai/the-batch/
+
+2. Superhuman (Rahul Vohra)
+   https://superhuman.com/blog
+
+3. Import AI (Jack Clark)
+   https://importai.substack.com/
+
+4. AI Breakfast (Ed Toner)
+   https://aibreakfast.substack.com/
+
+5. Prompt Engineering Daily (Linus Ekenstam)
+   https://promptengineering.substack.com/
+
+TIER 2 - HIGH VALUE
+6. Emerging Tech Brew
+   https://www.morningbrew.com/emerging-tech
+
+7. AIWeekly
+   https://www.aiweekly.co/
+
+8. Gradient Descent (Ben Lorica)
+   https://gradientdescent.io/
+
+9. AI Journal
+   https://aijournal.substack.com/
+
+10. LessWrong (AI alignment + applications)
+    https://www.lesswrong.com/
+
+---
+
+Payments & Fintech (10 sources)
+--------------------------------
+
+TIER 1 - MUST READ
+1. FinTech Inside
+   https://fintechinside.substack.com/
+
+2. The Block Crypto (David Z. Morris)
+   https://www.theblockcrypto.com/
+
+3. Fintech Futures
+   https://www.fpinsights.com/
+
+4. Paytech Daily
+   https://paytechdaily.substack.com/
+
+5. Circle Research
+   https://www.circle.com/blog
+
+TIER 2 - HIGH VALUE
+6. Embedded Finance Digest
+   https://embeddedfinance.substack.com/
+
+7. The Paytech Post
+   https://thepaytechpost.com/
+
+8. Modern Finance Review
+   https://www.modernfinancereview.com/
+
+9. Remitly Insights
+   https://www.remitly.com/insights
+
+10. Ripple Insights (cross-border payments)
+    https://ripple.com/insights/
+
+---
+
+Travel & Commerce (10 sources)
+-------------------------------
+
+TIER 1 - MUST READ
+1. PhocusWire
+   https://www.phocuswire.com/
+
+2. Skift
+   https://skift.com/
+
+3. Routehappy Insights
+   https://www.routehappy.com/insights
+
+4. Hopper Blog
+   https://www.hopper.com/articles/
+
+5. IATA Intelligence
+   https://www.iata.org/
+
+TIER 2 - HIGH VALUE
+6. Hospitality Tech Today
+   https://www.hospitalitytech.com/
+
+7. Travel Weekly
+   https://www.travelweekly.com/
+
+8. Tnooz
+   https://www.tnooz.com/
+
+9. Adventures in Travel
+   https://www.adventuresintravel.biz/
+
+10. Loyalty Program Insights
+    https://loyaltyinsights.com/
+
+---
+
+Product Management (10 sources)
+--------------------------------
+
+TIER 1 - MUST READ
+1. Reforge Insights
+   https://www.reforge.com/blog
+
+2. Maven Analytics / Maven Product Docs
+   https://maven.com/mvn-product-insights
+
+3. Lenny's Product Podcast
+   https://www.lennyspodcast.com/
+
+4. April Dunford on Positioning
+   https://aprildunford.com/blog
+
+5. Teresa Torres on Discovery
+   https://www.producttalk.org/
+
+TIER 2 - HIGH VALUE
+6. Shreyas Doshi's Newsletter
+   https://newsletter.shreyas.com/
+
+7. Des Travers on Product
+   https://www.substack.com/@destravers
+
+8. First Round Review
+   https://firstround.com/
+
+9. Mind the Product
+   https://www.mindtheproduct.com/
+
+10. Inspired by Marty Cagan (Silicon Valley Product Group)
+    https://www.svpg.com/articles/
+
+---
+
+QUICK START (TOP 5 PER CATEGORY)
+=================================
+
+Subscribe to these 20 sources first:
+
+AI & ML:
+- https://www.deeplearning.ai/the-batch/
+- https://superhuman.com/blog
+- https://importai.substack.com/
+- https://aibreakfast.substack.com/
+- https://gradientdescent.io/
+
+Payments:
+- https://fintechinside.substack.com/
+- https://www.fpinsights.com/
+- https://paytechdaily.substack.com/
+- https://www.theblockcrypto.com/
+- https://embeddedfinance.substack.com/
+
+Travel:
+- https://www.phocuswire.com/
+- https://skift.com/
+- https://www.routehappy.com/insights
+- https://www.hopper.com/articles/
+- https://www.tnooz.com/
+
+Product:
+- https://www.reforge.com/blog
+- https://www.lennyspodcast.com/
+- https://newsletter.shreyas.com/
+- https://aprildunford.com/blog
+- https://firstround.com/
+
+---
+
+TIPS FOR SUBSCRIBING
+====================
+
+1. Substack newsletters: Click the email icon and subscribe directly
+2. RSS feeds: Copy the URL into Feedly or your favorite RSS reader
+3. Blog feeds: Most publications have /blog or /insights sections with RSS feeds
+4. Podcasts: Copy to Spotify, Apple Podcasts, or your podcast app
+5. Email newsletters: Create a dedicated email filter or folder to keep these organized
+
+RECOMMENDED TOOLS:
+- Feedly (aggregates all sources)
+- Substack (subscribe to individual newsletters)
+- Google News (create sections for each topic)
+- Twitter/X (follow the newsletter authors)
+
+---
+
+Last updated: 2026-06-05
