@@ -28,33 +28,31 @@ git clone https://github.com/YOUR-USERNAME/content_creation.git
 cd content_creation
 ```
 
-### Step 2: Get API Keys (Required)
+### Step 2: Set Up Automatic Daily Posts (Optional)
 
-You need API keys from two services to generate images. Don't worry — they're free or cheap.
+**Good news:** This project comes with **automatic daily post generation** already set up. Every morning at 8 AM, Claude will automatically generate 5 posts for you and push them to your GitHub repo.
 
-**Sign up for these:**
-1. **Apify** (for scraping social media data)
-   - Go to [apify.com](https://apify.com)
-   - Sign up (free)
-   - Get your API key from Settings
-   
-2. **Kie.ai** (for AI image generation)
-   - Go to [kie.ai](https://kie.ai)
-   - Sign up (free tier available)
-   - Get your API key
+**To enable this:**
+- You just need to push your customized project to GitHub
+- Set up a scheduled routine in Claude Code (instructions in `CLAUDE.md`)
+- That's it — posts are generated automatically every day
 
-### Step 3: Add Your API Keys
+**Manual API Setup (Optional):**
 
-Create a file called `.env` in the project folder and add your keys:
+If you want to manually generate posts using commands like `/create-10-posts`, you'll need API keys:
 
+1. **Apify** (for scraping social media data) — [apify.com](https://apify.com)
+2. **Kie.ai** (for AI image generation) — [kie.ai](https://kie.ai)
+
+If you set them up, add them to `.env`:
 ```
 APIFY_API_KEY=your_apify_key_here
 KIE_AI_API_KEY=your_kie_ai_key_here
 ```
 
-**⚠️ Important:** Never share this `.env` file. It contains secret keys.
+**But don't worry** — the automated daily generation doesn't require this setup. APIs are only needed if you want to manually create posts on demand.
 
-### Step 4: Install Python Libraries
+### Step 3: Install Python Libraries
 
 You need Python installed. Then run:
 
@@ -62,7 +60,7 @@ You need Python installed. Then run:
 pip install Pillow requests
 ```
 
-### Step 5: Tell Claude About You
+### Step 4: Tell Claude About You
 
 This is the important part. Edit these files to describe yourself:
 
@@ -88,7 +86,14 @@ Create a folder `context/images/` and add:
 
 Claude will use these in your posts.
 
-### Step 7: Create Your First Posts
+### Step 5: Create Your First Posts
+
+**Option A: Wait for Automated Posts (Easiest)**
+- Once you push to GitHub and set up scheduling, Claude automatically generates 5 posts every morning at 8 AM
+- Just pull them from GitHub and publish
+- No manual work needed
+
+**Option B: Manually Generate Posts (Requires API keys from Step 2)**
 
 Open Claude Code and run:
 
