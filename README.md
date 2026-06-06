@@ -162,11 +162,11 @@ If you don't like the green and cream colors:
 
 ### Change Your Writing Style
 
-Claude uses Adam Robinson's writing style by default. If you want different style:
+Claude uses your personal voice and style guide by default. If you want to adjust it:
 
-1. Edit `reference/adam-robinson-writing-style.md`
-2. Describe your actual writing style
-3. Add examples of posts you like
+1. Edit `reference/rohit-voice-guide.md` to describe your writing style
+2. Add examples of your best posts
+3. Update your tone preferences (humor, formality, technical depth, etc.)
 4. Run `/prime` then `/create-10-posts`
 
 ---
