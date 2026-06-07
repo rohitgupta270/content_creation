@@ -9,9 +9,9 @@
 | Date | Topic | Main Angle | Companies |
 |------|-------|-----------|-----------|
 | 2026-06-05 | Real-time payments | Working capital optimization vs speed positioning | Wise, Square |
-| 2026-06-07 | Real-time payments | Trust layers and confidence infrastructure | Wise |
+| 2026-06-07 | Fraud detection | Fraud minimization vs legitimate rejection tradeoff | Square, Stripe |
 
-**⚠️ ISSUE:** Both June 5 and 7 cover real-time payments. Too similar. Need different payments topics next batch.
+**✅ FIXED:** June 7 now covers completely different topic (fraud/UX tradeoff vs working capital optimization).
 
 ---
 
@@ -20,9 +20,9 @@
 | Date | Topic | Main Angle | Companies |
 |------|-------|-----------|-----------|
 | 2026-06-05 | AI trip planning | Decision fatigue - curation beats options | Hopper, TripAdvisor, Skyscanner |
-| 2026-06-07 | Travel curation | Decision fatigue - curation beats options | Hopper, Skyscanner, Booking.com, Airbnb |
+| 2026-06-07 | NDC distribution | Power shift from GDS to direct distribution | United, Lufthansa, American, Sabre, Expedia |
 
-**⚠️ ISSUE:** IDENTICAL topics on both dates. This is a duplicate. June 7 should have covered different travel topic (e.g., NDC, dynamic pricing, loyalty programs, travel subscriptions, identity verification).
+**✅ FIXED:** June 7 now covers NDC distribution (completely different from curation/decision fatigue).
 
 ---
 
@@ -31,9 +31,9 @@
 | Date | Topic | Main Angle | Companies |
 |------|-------|-----------|-----------|
 | 2026-06-05 | AI in product processes | Type 1 vs Type 2: rethink processes, don't accelerate wrong ones | Stripe, Loom, Figma |
-| 2026-06-07 | AI replacing PM work | Commodity vs judgment work - AI replaces commodity tasks | McKinsey data |
+| 2026-06-07 | Product org structure | Parallelization for AI - structure determines shipping velocity | Figma, Stripe, Notion |
 
-**✅ OK:** Different angles, both valuable. Both can exist.
+**✅ OK:** Different angles (process vs structure). Both valuable.
 
 ---
 
@@ -42,9 +42,9 @@
 | Date | Topic | Main Angle | Companies |
 |------|-------|-----------|-----------|
 | 2026-06-05 | Identity decisions | Roadmaps are identity statements (what you refuse to become) | Wise, Stripe, Shopify, eBay, Alibaba |
-| 2026-06-07 | Product identity | Hardest decisions are identity decisions | Stripe, Airbnb |
+| 2026-06-07 | Stakeholder alignment | Influence without authority - better decisions than authority alone | McKinsey study of 200+ companies |
 
-**⚠️ ISSUE:** Nearly identical. Both about "identity is the core decision." Same message, different examples. Should have covered different leadership topic (e.g., stakeholder management, prioritization frameworks, building culture, navigating politics).
+**✅ FIXED:** June 7 now covers stakeholder management (completely different from identity decisions).
 
 ---
 
@@ -53,9 +53,9 @@
 | Date | Topic | Main Angle |
 |------|-------|-----------|
 | 2026-06-05 | Vendor velocity risk | Lost $200K on build vs partner decision - underestimated competitor speed | 
-| 2026-06-07 | Global assumption testing | Moved between countries - learned to test assumptions, not predict |
+| 2026-06-07 | Capacity management | Shipping during personal crisis - honesty + scope cut beats pretending |
 
-**✅ OK:** Different lessons, both valuable.
+**✅ OK:** Different lessons (vendor speed vs personal capacity). Both valuable.
 
 ---
 
