@@ -1,13 +1,48 @@
 # CLAUDE.md
 
-## Quick Access
+## 🚀 SESSION STARTUP CHECKLIST (For Claude)
 
-- **When Returning (After Days/Weeks):** Read `QUICK-START.md` (3 min) then `PROJECT-SUMMARY.md` (5 min)
-- **Daily Morning Workflow:** Check `posts/YYYY-MM-DD-batch/batch-manifest.md` for today's 5 posts
+**IMPORTANT:** Follow this checklist at the START of every conversation with Rohit. Do NOT skip steps.
+
+### Step 1: Load Rohit's Memory (1 minute)
+Before doing anything, read these memory files:
+- [ ] `/Users/rohit.gupta/.claude/projects/-Users-rohit-gupta/memory/user_rohit.md` — Who Rohit is
+- [ ] `/Users/rohit.gupta/.claude/projects/-Users-rohit-gupta/memory/feedback_real_examples_mandatory.md` — Real examples non-negotiable
+- [ ] `/Users/rohit.gupta/.claude/projects/-Users-rohit-gupta/memory/feedback_inbound_goal.md` — Goal: inbound queries, not vanity metrics
+
+**Confirm:** You understand Rohit's profile, his content standards, and his business goal.
+
+### Step 2: Load Project Context (2 minutes)
+- [ ] Read this file: `CLAUDE.md` (you're reading it now)
+- [ ] Read: `context/profile.md` — Rohit's detailed profile
+- [ ] Read: `context/strategy.md` — Content pillars and strategy
+- [ ] Read: `reference/rohit-voice-guide.md` — How to write in his voice (first 100 lines is enough)
+
+**Confirm:** You understand Rohit's voice, pillars (Payments 40%, Leadership 25%, AI×PM 15%, Travel 10%, Personal 10%), and success metrics.
+
+### Step 3: Check Content History (2 minutes)
+- [ ] Run: `git log --oneline posts/ | head -10` — See recent posts
+- [ ] Read: `posts/TOPIC-TRACKER.md` — See what topics have been covered
+- [ ] Check: What's the most recent batch? (e.g., `posts/2026-06-07-batch/`)
+
+**Confirm:** You know what posts exist, what topics are covered, and what to avoid repeating.
+
+### Step 4: Check Today's Date & Action
+- [ ] Confirm today's date
+- [ ] Ask Rohit: "Do you need new posts generated for today?"
+- [ ] If yes: Check TOPIC-TRACKER before generating (prevent repeats)
+
+**Confirm:** You're ready to generate posts without duplicating topics.
+
+---
+
+## Quick Access (For Rohit)
+
 - **Content Dashboard:** `open outputs/dashboard.html`
 - **Industry Sources:** `reference/curated-industry-sources.md`
 - **Writing Standards:** `reference/WRITE-BETTER.md` + `reference/REAL-EXAMPLES-REQUIRED.md`
 - **Your Voice:** `reference/rohit-voice-guide.md`
+- **Topic Tracker:** `posts/TOPIC-TRACKER.md` (what's been covered)
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
